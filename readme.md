@@ -5,3 +5,6 @@ Cu cateva modificari
 
 rosii 
 branza
+
+BANANE
+CIRESE
